@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFHpd1oYsE/eUMJSpBq2hFmmTEtUtZqtw/edit?utm_content=DAFHpd1oYsE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]( https://Mihirbhatt161.github.io )
+[![MasterHead](https://www.canva.com/design/DAFHpd1oYsE/eUMJSpBq2hFmmTEtUtZqtw/view?utm_content=DAFHpd1oYsE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]( https://Mihirbhatt161.github.io )
 
 <h1 align="center">Hi 👋, I'm Mihir Bhatt</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
@@ -22,6 +22,8 @@
 - 📫 How to reach me **mihirbhatt16961@gmail.com**
 
 - ⚡ Fun fact **I think Nothing is Fun Fact until you added funny Background music to every Instant.d**
+
+<img align="right"  alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
