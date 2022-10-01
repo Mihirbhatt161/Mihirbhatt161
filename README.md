@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mihirbhatt16961@gmail.com**
 
-- ⚡ Fun fact **I think Nothing is Fun Fact until you added funny Background music to every Instant.d**
+- ⚡ Fun fact **I think Nothing is Fun Fact until you added funny Background music to every Instant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
